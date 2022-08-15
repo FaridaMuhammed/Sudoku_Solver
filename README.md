@@ -1,1 +1,2 @@
 # Sudoku_Solver
+The  sudoku  game  falls  under  puzzle  games.The simplicity of the puzzle’s structure and the low  requirement  of  mathematical  skills  caused  people  to  have  an  enormous  interest  in accepting challenges to solve the puzzle. Therefore, developers have tried to find algorithms in order to generate a variety of puzzles for human players so that they could be even solved by  computer  programming. In  our  project,  we  use  the  JAVA  language  programming  with method Backtracking.
